@@ -1,0 +1,32 @@
+
+#contact{
+    font-size: 35px;
+    color:black;
+    text-align: center;
+    padding-top: 100px;
+}
+.location{
+    display:flex;
+    font-size: 25px;
+    font-family: sans-serif;
+    flex-wrap:wrap;
+}
+.location h2{
+  color:brown;   
+  margin-bottom: .8em;
+}
+.location div{
+    flex:1;
+    padding:1em;
+}
+.container{
+    /* color: aqua; */
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.container h1{
+    color:orangered;
+    margin-left: 10px;
+    cursor:pointer;
+}

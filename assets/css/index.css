@@ -1,0 +1,21 @@
+.content{
+    position: absolute;
+    color:rgb(242, 237, 237);
+    top:40%;
+    left:30%;
+}
+.content h3{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.content h1{
+    font-size: 50px;
+}
+.content p{
+    text-align: center;
+    margin-top: 17px;
+}
+body{
+    background-image: url(img/hotel4.jpg);
+}
